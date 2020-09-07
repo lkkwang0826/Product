@@ -1,0 +1,12 @@
+/home/project/cafeforme/Product/src/main/java/cafe4me/Application.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/ProductController.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/ProductRepository.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/AbstractEvent.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/PolicyHandler.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/Product.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/ProductStatusRepository.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/config/kafka/KafkaProcessor.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/ProductStatus.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/ProductInserted.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/ProductStatusViewHandler.java
+/home/project/cafeforme/Product/src/main/java/cafe4me/ProductDeleted.java

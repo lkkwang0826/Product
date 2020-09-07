@@ -1,0 +1,13 @@
+cafe4me/AbstractEvent.class
+cafe4me/AbstractEvent$1.class
+cafe4me/ProductStatusViewHandler.class
+cafe4me/ProductDeleted.class
+cafe4me/ProductStatus.class
+cafe4me/PolicyHandler.class
+cafe4me/ProductStatusRepository.class
+cafe4me/config/kafka/KafkaProcessor.class
+cafe4me/Product.class
+cafe4me/ProductInserted.class
+cafe4me/Application.class
+cafe4me/ProductController.class
+cafe4me/ProductRepository.class
